@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**lauansantana/lauansantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bem-vindos !
 
-Here are some ideas to get you started:
+<div align=>
+  <a href="https://github.com/lauansantana">
+  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=lauansantana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauansantana&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+
+### Redes Sociais
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauan-santana-9491a3186/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lauansantana_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lauansantana2@gmail.com)
