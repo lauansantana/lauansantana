@@ -2,9 +2,9 @@
 
 <div align=>
   <a href="https://github.com/lauansantana">
-  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=lauansantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=lauansantana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauansantana&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauansantana&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
   
