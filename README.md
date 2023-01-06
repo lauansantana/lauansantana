@@ -1,4 +1,3 @@
-### Olá 👋
 
 <div align=>
   <a href="https://github.com/lauansantana">
