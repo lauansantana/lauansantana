@@ -6,7 +6,8 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauansantana&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+![Linguagem C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
 
 ### Redes Sociais
