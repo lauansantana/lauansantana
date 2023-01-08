@@ -1,7 +1,9 @@
 <div align=>
   <a href="https://github.com/lauansantana">
-  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=lauansantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=lauansantana&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauansantana&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
