@@ -1,5 +1,5 @@
 <div align=>
-  <a href="https://github.com/ThauanMiranda">
+  <a href="https://github.com/lauansantana">
   <img height="138em" src="https://github-readme-stats.vercel.app/api?username=lauansantana&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauansantana&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
